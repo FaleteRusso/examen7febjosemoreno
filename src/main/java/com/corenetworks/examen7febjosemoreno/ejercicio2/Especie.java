@@ -3,7 +3,6 @@ package com.corenetworks.examen7febjosemoreno.ejercicio2;
 import jakarta.persistence.*;
 
 import java.util.List;
-
 @Entity
 @Table(name = "especies")
 public class Especie {
